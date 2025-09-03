@@ -216,25 +216,25 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: c++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 98%
 
-      - name: Angular
+      - name: pyton
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: html
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: sql
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: Pseint
         level: 60%
 
 footer: >
