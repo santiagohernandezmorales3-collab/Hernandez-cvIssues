@@ -150,11 +150,9 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      generador de archivos FASTA, bases de datos para librerias, implementacion de modelos probabilisticos para bases de datos sobre el cambio climatico.
     assignments:
       - title: Velocity
         link: "#hook"
