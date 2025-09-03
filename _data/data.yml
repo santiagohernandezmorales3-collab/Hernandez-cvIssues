@@ -152,7 +152,7 @@ certifications:
 projects:
     title: proyectos
     intro: >
-      generador de archivos FASTA, bases de datos para librerias, implementacion de modelos probabilisticos para bases de datos sobre el cambio climatico.
+      Generador de archivos FASTA, bases de datos para librerias, implementacion de modelos probabilisticos para bases de datos sobre el cambio climatico,generacion de diferentes sitios web para la promocion de productos
     assignments:
       - title: Velocity
         link: "#hook"
