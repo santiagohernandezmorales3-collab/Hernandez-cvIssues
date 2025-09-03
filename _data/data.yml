@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Santiago Hernandez Morales
+    tagline: ingeniero de sistemas
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,14 +33,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: ingles
+          level: nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: frances
+          level: Profesional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: español
+          level: Profesional
 
     interests:
       title: Interests
@@ -66,47 +66,25 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: ingenieria de sisteamas
+        university: universidad javeriana
+        time: 2024 - 2027
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          me gradue en 2027 de ingenieria de sistemas, ahora trabajo en un grupo de investigacion de diseño de software que se dedica a la generacion de archivos FASTA para cadenas de ADN.
+      - degree: matematicas aplicadas
+        university: universidad de bristol
+        time: 2027 - 2030
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          me gradue de matematicas aplicadas en la universidad de bristol, y puedo generar modelos probabilisticos sobre acontecimientos y  para aplicarlos a bases de datos
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
       - role: Lead Developer
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Tengo experiencia investigando sobre modelos de diseño de software en la universidad de Bristol, genere proyectos para la lectura de cadenas de ADN y la generacion de modelos probabilisticos para bases de datos
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -172,11 +150,9 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      generador de archivos FASTA, bases de datos para librerias, implementacion de modelos probabilisticos para bases de datos sobre el cambio climatico.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -240,25 +216,25 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: c++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 98%
 
-      - name: Angular
+      - name: pyton
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: html
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: sql
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: Pseint
         level: 60%
 
 footer: >
