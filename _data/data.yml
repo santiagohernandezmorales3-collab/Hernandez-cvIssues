@@ -78,23 +78,13 @@ education:
           me gradue de matematicas aplicadas en la universidad de bristol, y puedo generar modelos probabilisticos sobre acontecimientos y  para aplicarlos a bases de datos
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
       - role: Lead Developer
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Tengo experiencia investigando sobre modelos de diseño de software en la universidad de Bristol, genere proyectos para la lectura de cadenas de ADN y la generacion de modelos probabilisticos para bases de datos
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
