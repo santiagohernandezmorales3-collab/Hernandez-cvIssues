@@ -37,10 +37,10 @@ sidebar:
           level: nativo
 
         - idiom: frances
-          level: Profesional
+          level: nativo
 
         - idiom: español
-          level: Profesional
+          level: nativo
 
     interests:
       title: Interests
@@ -67,7 +67,7 @@ education:
     title: Education
     info:
       - degree: ingenieria de sisteamas
-        university: universidad javeriana
+        university: pontificia universidad javeriana
         time: 2024 - 2027
         details: |
           me gradue en 2027 de ingenieria de sistemas, ahora trabajo en un grupo de investigacion de diseño de software que se dedica a la generacion de archivos FASTA para cadenas de ADN.
