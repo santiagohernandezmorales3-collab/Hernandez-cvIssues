@@ -8,7 +8,11 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
+ feature/issues
     name: Santiago Hernández Morales..
+=======
+    name: santiago Hernandez Morales..
+ main
     tagline: ingeniero de sistemas
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -37,10 +41,10 @@ sidebar:
           level: nativo
 
         - idiom: frances
-          level: Profesional
+          level: nativo
 
         - idiom: español
-          level: Profesional
+          level: nativo
 
     interests:
       title: Interests
@@ -55,19 +59,14 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: perfil profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      trabaje en varios proyectos de ingenieria de microsoft y google, ahora tengo un grupo de investigacion de ingenieria en la universidad de bristol.
 education:
     title: Education
     info:
       - degree: ingenieria de sisteamas
-        university: universidad javeriana
+        university: pontificia universidad javeriana
         time: 2024 - 2027
         details: |
           me gradue en 2027 de ingenieria de sistemas, ahora trabajo en un grupo de investigacion de diseño de software que se dedica a la generacion de archivos FASTA para cadenas de ADN.
@@ -80,7 +79,7 @@ education:
 experiences:
     title: Experiencia
     info:
-      - role: Lead Developer
+      - role: lider de proyectos de ingenieria de software
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
@@ -152,7 +151,7 @@ certifications:
 projects:
     title: proyectos
     intro: >
-      generador de archivos FASTA, bases de datos para librerias, implementacion de modelos probabilisticos para bases de datos sobre el cambio climatico.
+      Generador de archivos FASTA, bases de datos para librerias, implementacion de modelos probabilisticos para bases de datos sobre el cambio climatico,generacion de diferentes sitios web para la promocion de productos
     assignments:
       - title: Velocity
         link: "#hook"
@@ -220,7 +219,7 @@ skills:
 
     toolset:
       - name: c++
-        level: 98%
+        level: 92%
 
       - name: Javascript
         level: 98%
@@ -235,7 +234,7 @@ skills:
         level: 95%
 
       - name: Pseint
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
